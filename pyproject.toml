@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "copilot_workshop"
+version = "1.0.0"
+description = "A copilot workshop."
+authors = [
+    "Andy Dennis <andrew.dennis@moduscreate.com>"
+]
+readme = "README.md"
+license = "TBD"
+repository = "https://github.com/tweag/copilot-training"
+classifiers = [
+    "Intended Audience :: Developers",
+    "Programming Language :: Python",
+]
